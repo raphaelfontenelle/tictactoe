@@ -6,6 +6,7 @@ This project uses AI to play with the user and win.
 # Files
 
 tictactoe.py --> this is the AI part were tha magic hapens.
+
 runner.py --> This is soma game code
 
 
